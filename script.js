@@ -26,3 +26,10 @@ rect.addEventListener("mousemove", function(details){
 
 });
 
+rect.addEventListener("mouseleave", function(details){
+
+    gsap.to(".rectangle", {
+        backgroundColor: "white",
+        ease: Power1,
+    });
+});
