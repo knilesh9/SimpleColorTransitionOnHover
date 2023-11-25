@@ -4,4 +4,4 @@ it's nothing serious just some practice I was doing with DOM manipulation along 
 
 ![](https://github.com/knilesh9/SimpleColorTransitionOnHover/blob/main/media/demo.gif)
 
-<img src="https://github.com/knilesh9/SimpleColorTransitionOnHover/blob/main/media/demo.gif" alt="Demo" width="720" height="auto">
+<img src="https://github.com/knilesh9/SimpleColorTransitionOnHover/blob/main/media/demo.gif" alt="Demo" width="auto" height="auto">
